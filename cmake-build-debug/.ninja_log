@@ -1,0 +1,7 @@
+# ninja log v6
+3	421	7529812900891315	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
+3	284	7529815286081637	build.ninja	4a2c92b2bf74e1c1
+20	847	7529815287082455	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
+848	1075	7529815295235501	Ponderada_openmp.exe	93276c5b46b20793
+46	1346	7529823450275003	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
+1347	1689	7529823463282342	Ponderada_openmp.exe	93276c5b46b20793
