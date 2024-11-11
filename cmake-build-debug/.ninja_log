@@ -1,7 +1,11 @@
 # ninja log v6
-3	421	7529812900891315	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
-3	284	7529815286081637	build.ninja	4a2c92b2bf74e1c1
-20	847	7529815287082455	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
-848	1075	7529815295235501	Ponderada_openmp.exe	93276c5b46b20793
-46	1346	7529823450275003	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
-1347	1689	7529823463282342	Ponderada_openmp.exe	93276c5b46b20793
+66	2206	7535523287488621	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	60595e2a175ff3dd
+1288	1453	7534071012340975	Ponderada_openmp.exe	93276c5b46b20793
+16	791	7535524018869281	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	4f151d7f39d7e9b5
+791	871	7535524026619265	Ponderada_openmp.exe	6586a60cc61547af
+21	789	7535524273471917	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	4f151d7f39d7e9b5
+790	873	7535524281150808	Ponderada_openmp.exe	6586a60cc61547af
+24	788	7535524898372150	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	4f151d7f39d7e9b5
+788	861	7535524906019796	Ponderada_openmp.exe	6586a60cc61547af
+23	756	7535525136852417	CMakeFiles/Ponderada_openmp.dir/main.cpp.obj	4f151d7f39d7e9b5
+757	828	7535525144199622	Ponderada_openmp.exe	6586a60cc61547af
